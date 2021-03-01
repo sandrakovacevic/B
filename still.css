@@ -167,9 +167,9 @@ li:nth-child(1){
 }
 
 #peta{
-	background-color:rgba(255, 255, 255, 0.85);
+	background-color: rgba(228, 175, 129, 0.8);
 	width: 40%;
-	height: 30%;
+	height: 28%;
 	right: 0%;
 	margin-top: 240%;
 	position: absolute;
