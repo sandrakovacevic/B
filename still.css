@@ -149,7 +149,7 @@ li:nth-child(1){
 	position: absolute;
 	background-image: url("img/slika3.png");
 	background-repeat: no-repeat;
-	background-size: 50%;
+	background-size: 55%;
 	background-position: center center;
 }
 
@@ -207,12 +207,12 @@ footer{
 	margin-left: 5%;
 	align-items: center;
 	padding: 5% 0 3% 0;
+	font-size: 10px;
+	font-family:  'Montserrat', sans-serif;
+	width: 100%;
 }
 
 #instagram a{
-	font-size: 10px;
-	font-family:  'Montserrat', sans-serif;
-/*	font-style: italic;*/
 	color: #33334d;
 	text-transform: uppercase;
 	padding-left: 5px;
@@ -224,7 +224,13 @@ footer{
 	width: 10px;
 	height: 1px;
 	background-color: #33334d;
-	
+	margin-left: 5%;
+}
+
+#copyright{
+	text-decoration: none;
+	color: #33334d;
+	margin-left: 55%;
 }
 
 @media screen and (min-width: 500px) and (orientation: landscape){
@@ -287,7 +293,10 @@ footer{
 	footer{
 		margin-top: 130%;
 	}
-
+	
+	#copyright{
+		margin-left: 70%;
+	}
 
 }
 
@@ -335,6 +344,11 @@ footer{
 		width: 20px;
 	}
 	
+	#copyright{
+		margin-left: 70%;
+		font-size: 12px;
+	}
+	
 @media screen and (min-width : 1024px){
 	#logo-link {
 		width: 6%;
@@ -368,6 +382,10 @@ footer{
 		padding-top: 20px;
 		font-size: 12px;
 
+	}
+	
+	#copyright{
+		margin-left: 80%;
 	}
 	
 }
