@@ -370,6 +370,10 @@ footer{
 		margin-left: 50%;
 		cursor: url('img/cursor-link.cur'), default;
 	}
+	
+	#red1 a{
+		cursor: url('img/cursor-link.cur'), default;
+	}
 
 	footer{
 		padding-bottom: 2%;
