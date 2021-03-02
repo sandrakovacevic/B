@@ -143,7 +143,7 @@ li:nth-child(1){
 #treca{
 	width:	60%;
 	height: 25%;
-	margin-top: 170%;
+	margin-top: 160%;
 	margin-left: 15%;
 	background-color: #eecaaa;
 	position: absolute;
@@ -388,5 +388,11 @@ footer{
 		margin-left: 80%;
 	}
 	
+}
+	
+@media screen and (min-width : 1400px){
+	#treca{
+		height: 30%;
+	}
 }
 
