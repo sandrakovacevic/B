@@ -81,7 +81,7 @@ nav{
 }
 
 nav ul{
-	width:20%;
+	width:100%;
 	height: 40%;
 	list-style-type: none;
 	margin-top: 170px;
@@ -145,7 +145,7 @@ li:nth-child(1){
 	height: 25%;
 	margin-top: 160%;
 	margin-left: 15%;
-	background-color: #eecaaa;
+	background-color: #f2d7bf;
 	position: absolute;
 	background-image: url("img/slika3.png");
 	background-repeat: no-repeat;
@@ -175,7 +175,7 @@ li:nth-child(1){
 	position: absolute;
 	background-image: url("img/slika5.png");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 70%;
 	background-position: center center;
 }
 
@@ -192,11 +192,13 @@ li:nth-child(1){
 	font-style: italic;
 	font-family: 'Cormorant', serif;
 	color: #33334d;
+
 }
 
-.tekst{
+.tekst a{
 	padding: 10px;
-
+	text-decoration: none;
+	color: #33334d;
 }
 
 footer{
@@ -204,7 +206,6 @@ footer{
 	position: absolute;
 	display: inline-flex;	
 	background-color: ;
-	margin-left: 5%;
 	align-items: center;
 	padding: 5% 0 3% 0;
 	font-size: 10px;
@@ -213,11 +214,10 @@ footer{
 }
 
 #instagram a{
-	color: #33334d;
 	text-transform: uppercase;
 	padding-left: 5px;
 	text-decoration: none;
-
+	color: #33334d;
 }
 
 #crtica{
@@ -293,11 +293,10 @@ footer{
 	footer{
 		margin-top: 130%;
 	}
-	
+
 	#copyright{
 		margin-left: 70%;
 	}
-
 }
 
 
@@ -336,6 +335,10 @@ footer{
 		font-size: 22px;
 	}
 
+	#treca{
+		height: 25%;	
+	}
+
 	#instagram{
 		font-size: 12px;
 	}
@@ -343,7 +346,7 @@ footer{
 	#crtica{
 		width: 20px;
 	}
-	
+
 	#copyright{
 		margin-left: 70%;
 		font-size: 12px;
@@ -370,7 +373,7 @@ footer{
 		margin-left: 50%;
 		cursor: url('img/cursor-link.cur'), default;
 	}
-	
+
 	#red1 a{
 		cursor: url('img/cursor-link.cur'), default;
 	}
@@ -387,16 +390,15 @@ footer{
 		font-size: 12px;
 
 	}
-	
+
 	#copyright{
 		margin-left: 80%;
 	}
 	
 }
-	
+
 @media screen and (min-width : 1400px){
 	#treca{
 		height: 30%;
 	}
 }
-
