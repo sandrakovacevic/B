@@ -373,6 +373,10 @@ footer{
 		margin-left: 50%;
 		cursor: url('img/cursor-link.cur'), default;
 	}
+	
+	#treca{
+		height: 30%;
+	}
 
 	#red1 a{
 		cursor: url('img/cursor-link.cur'), default;
@@ -397,8 +401,4 @@ footer{
 	
 }
 
-@media screen and (min-width : 1400px){
-	#treca{
-		height: 30%;
-	}
-}
+
