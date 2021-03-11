@@ -314,6 +314,7 @@ footer{
 	}
 	header{
 		position: fixed;
+		background-color: #f2f2f2;
 	}
 	#logo-link {
 		width: 6%;
