@@ -315,14 +315,14 @@ footer{
 	#slika{
 		width: 30%;
 		height: 45%;
-		margin-top: 10%;
-		right: 30%;
+		margin-top: 15%;
+		right: 15%;
 	}
 
 	#info{
-		width: 35%;
-		margin-left: 25%;
-		margin-top: 15%;
+		width: 60%;
+		margin-left: 15%;
+		margin-top: 25%;
 		font-size: 18px;
 		position: absolute;
 		font-family: 'Montserrat', serif;
