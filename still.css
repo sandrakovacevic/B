@@ -145,7 +145,7 @@ li:nth-child(1){
 	height: 25%;
 	margin-top: 160%;
 	margin-left: 15%;
-	background-color: #f7f2d7;
+	background-color: rgba(232, 228,209, 0.7);
 	position: absolute;
 	background-image: url("img/slika3.png");
 	background-repeat: no-repeat;
