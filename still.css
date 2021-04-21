@@ -254,7 +254,7 @@ footer{
 		margin-top: 11%;
 		width: 20%;
 		height: 70%;
-		
+		background-size: 95%;
 	}
 
 	#druga{
@@ -266,21 +266,21 @@ footer{
 
 	#treca{
 		width:	25%;
-		height: 33%;
+		height: 35%;
 		margin-top: 65%;
 		margin-left: 45%;
 	}
 
 	#cetvrta{
 		width: 25%;
-		height: 40%;
+		height: 43%;
 		margin-left: 18%;
 		margin-top: 90%;
 	}
 
 	#peta{
 		width: 20%;
-		height: 48%;
+		height: 50%;
 		left: 63%;
 		margin-top: 100%;
 	}
