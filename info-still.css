@@ -13,7 +13,7 @@ body{
 header{
 	width:100%;
 	height: 80px;
-	background-color: white;
+	background-color: #f2f2f2;
 	position: fixed;
 	z-index: 1000;
 
@@ -124,7 +124,7 @@ li:nth-child(3){
 }
 
 #slika{
-	width: 50%;
+	width: 40%;
 	height: 23%;
 	margin-top: 30%;
 	right: 13%;
