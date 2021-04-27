@@ -131,7 +131,7 @@ li:nth-child(3){
 	background-image: url("img/slika.png");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	background-color:  #e6e3d3;
+	background-color:  ;
 	position: absolute;
 }
 
@@ -151,6 +151,7 @@ p{
 	font-family: 'Cormorant', serif;
 	font-size: 14px;
 	width: 70%;
+	margin-left: 5%;
 }
 
 footer{
@@ -221,7 +222,7 @@ footer{
 	}
 
 	p{
-		font-size: 16px;
+		font-size: 18px;
 		margin-bottom: 70px;
 	}
 
@@ -335,7 +336,7 @@ footer{
 	p{
 		font-family: 'Cormorant', serif;
 		font-size: 20px;
-		margin-left: 20%;
+		margin-left: 8%;
 		padding-bottom: 10%;
 	}
 
@@ -361,11 +362,20 @@ footer{
 
 @media screen and (min-width : 1400px){
 	#info{
-		width: 30%;
+		width: 35%;
+		margin-left: 25%;
+		margin-top: 18%;
+	}
+
+	p{
+		width: 82%;
+		margin-bottom: 25%;
 	}
 
 	#slika{
-		width: 20%;
+		right: 20%;
+		margin-top: 10%;
+		
 	}
 
 	footer{
