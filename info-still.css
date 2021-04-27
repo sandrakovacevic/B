@@ -227,6 +227,7 @@ footer{
 		width: 65%;
 		font-size: 18px;
 		margin-bottom: 55px;
+		line-height: 2;
 	}
 
 	footer{
@@ -274,14 +275,14 @@ footer{
 
 	#info{
 			margin-top: 40%;
-			width: 60%;
+			width: 70%;
 			font-size: 23px;
 		}
 
 	p{
 		font-size: 23px;
 		margin-bottom: 90px;
-		width: 80%;
+		width: 70%;
 	}
 
 	footer{
@@ -324,9 +325,9 @@ footer{
 	}
 
 	#info{
-		width: 60%;
+		width: 50%;
 		margin-left: 15%;
-		margin-top: 25%;
+		margin-top: 20%;
 		font-size: 18px;
 		position: absolute;
 		font-family: 'Montserrat', serif;
@@ -367,18 +368,19 @@ footer{
 	#info{
 		width: 35%;
 		margin-left: 25%;
-		margin-top: 18%;
+		margin-top: 15%;
 	}
 
 	p{
-		width: 82%;
+		width: 70%;
 		margin-bottom: 25%;
+		font-size: 22px;
 	}
 
 	#slika{
-		right: 20%;
+		right: 25%;
 		margin-top: 10%;
-		
+		width: 25%;
 	}
 
 	footer{
