@@ -144,6 +144,7 @@ li:nth-child(3){
 	font-family: 'Montserrat', serif;
 	line-height: 1.8;
 	color: #33334d;
+	text-align: justify;
 	background-color: ;
 }
 
@@ -152,6 +153,7 @@ p{
 	font-size: 14px;
 	width: 70%;
 	margin-left: 5%;
+	text-indent: 20px;
 }
 
 footer{
@@ -213,8 +215,8 @@ footer{
 	}
 
 	#info{
-		width: 70%;
-		margin-top: 25%;
+		width: 80%;
+		margin-top: 23%;
 	}
 
 	a:nth-child(2){
@@ -222,8 +224,9 @@ footer{
 	}
 
 	p{
+		width: 65%;
 		font-size: 18px;
-		margin-bottom: 70px;
+		margin-bottom: 55px;
 	}
 
 	footer{
